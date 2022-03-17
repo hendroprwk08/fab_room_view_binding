@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ROOM Local Database</string>
+
+    <string-array name="tipe">
+        <item>Keluarga</item>
+        <item>Kantor</item>
+        <item>Teman</item>
+    </string-array>
+
+</resources>
